@@ -1,0 +1,37 @@
+PlateForward
+Rescue Food. Share Hope.
+
+PlateForward is a food-waste redistribution platform that connects food donors such as restaurants, hostels, cafeterias and event organizers with receivers such as NGOs, volunteers and communities.
+
+How it Works:
+1.DONOR
+2.Post Surplus Food
+3.Food Listing
+4.RECEIVER
+5.Browse / Search
+6.Claim Food
+7.Pickup & Redistribution
+8.Reduce Food Waste
+
+Key Features:
+1.User signup and login
+2.Donor and receiver interfaces
+3.Donate surplus food with quantity, category, location and pickup time
+4.Browse and search available food
+5.Claim available food
+6.Manage donor listings
+7.Protected application pages
+8.Responsive desktop and mobile UI
+9.Impact tracking for Meals Shared, Active Donors and Food Saved
+
+Frontend: HTML5, CSS3, JavaScript
+Prototype Storage: Browser LocalStorage
+Planned Integration: Firebase Authentication, real SMS OTP and cloud database
+
+Impact counters begin at 0 and are designed to increase from actual platform activity rather than using artificial numbers.
+
+Vision
+
+Turn surplus food into community impact — one rescued meal at a time.
+
+PlateForward — Rescue Food. Share Hope.
